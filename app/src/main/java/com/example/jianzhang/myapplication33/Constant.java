@@ -7,7 +7,6 @@ package com.example.jianzhang.myapplication33;
  */
 public class Constant {
 
-    //    public static String DOMAIN = "http://192.168.1.55:9090/";
     public static String DOMAIN = "http://192.168.1.146:8888/";
     public static String GET_TOKEN = "oauth/token";//登录
     public static String GET_USETINFO = "loginuser/getuserinfo";//获得用户信息
